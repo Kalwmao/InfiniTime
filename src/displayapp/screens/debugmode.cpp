@@ -1,4 +1,4 @@
-#include "displayapp/screens/debugmode.h"
+#include "displayapp/screens/debugmode.c"
 #include "displayapp/DisplayApp.h"
 
 using namespace Pinetime::Applications::Screens;
